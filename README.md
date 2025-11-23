@@ -1,49 +1,92 @@
-📊 **Amazon Sales Dashboard – Power BI**
+
+
+## 📊 **Amazon Sales Dashboard – Power BI**
 
 This project showcases an interactive Power BI dashboard built to analyze Amazon sales performance.
 It provides meaningful insights into revenue trends, category performance, profitability, and customer behavior.
 
+---
 
-🔍 **Key Insights**
+## 🔍 **Key Insights**
 
-Total Sales & Profit Overview
+* Total Sales & Profit Overview
+* Monthly Sales Trend
+* Category & Subcategory Analysis
+* Region-wise Sales Comparison
+* Customer Segment Distribution
+* Top Selling Products
+* Ship Mode Analysis
 
-Monthly Sales Trend
+---
 
-Category & Subcategory Analysis
+## 🎯 **Purpose of the Dashboard**
 
-Region-wise Sales Comparison
+* Understand overall sales performance
+* Identify highest revenue categories
+* Track profit trends
+* Compare regional performance
+* Support data-driven decision making
 
-Customer Segment Distribution
+---
 
-Top Selling Products
+## 📁 **Repository Contents**
 
-Ship Mode Analysis
+| File                | Description                    |
+| ------------------- | ------------------------------ |
+| AMAZON_PROJECT.pbix | Power BI dashboard source file |
+| amazon_sales.xlsx   | Raw dataset used for analysis  |
+| README.md           | Documentation                  |
 
+---
 
-🎯 **Purpose of the Dashboard**
+## 📂 **Dataset File**
 
-Understand overall sales performance
+The dataset includes:
 
-Identify highest revenue categories
+* Order Date
+* Product Category / Subcategory
+* Region
+* Sales
+* Quantity
+* Profit
+* Customer Segment
+* Ship Mode
 
-Track profit trends
+---
 
-Compare regional performance
+## 🔧 **Data Cleaning Performed**
 
-Support data-driven decision making
+* Removed duplicates
+* Standardized date format
+* Calculated profit fields
+* Filtered invalid entries
+* Cleaned category names
 
-🛠️ Tools Used
+---
 
-Power BI
+## 🛠️ **Technologies Used**
 
-Excel (Dataset)
+* Power BI
+* Excel
+* Power Query
+* DAX
 
-Power Query
+---
 
-DAX
+## 🧠 **Skills Demonstrated**
 
+* Data Cleaning & Preparation
+* KPI Creation
+* Data Modeling
+* Dashboard Design
+* Business Analytics
+* Insight Interpretation
 
-👤 **Developed By**
+---
+
+## 👤 **Developed By**
 
 **Kunal Chandelkar**
+
+
+
