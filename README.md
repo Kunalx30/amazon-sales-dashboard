@@ -31,11 +31,11 @@ It provides meaningful insights into revenue trends, category performance, profi
 
 ## 📁 **Repository Contents**
 
-| File                | Description                    |
-| ------------------- | ------------------------------ |
-| AMAZON_PROJECT.pbix | Power BI dashboard source file |
-| amazon_sales.xlsx   | Raw dataset used for analysis  |
-| README.md           | Documentation                  |
+| File                        | Description                    |
+| -------------------         | ------------------------------ |
+| AMAZON_PROJECT.pbix         | Power BI dashboard source file |
+| Amazon_Conbined_Data.xlsx   | Raw dataset used for analysis  |
+| README.md                   | Documentation                  |
 
 ---
 
